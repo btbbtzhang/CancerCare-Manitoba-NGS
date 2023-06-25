@@ -16,10 +16,14 @@ Detials check in GAIS_model.pdf
 Code: waiting for uploading from old MATLAB repository  
 
 
-Partial Results:
+Partial Results:  
+
+title1: the workflow of GAIS simulation  
 ![pasw](https://github.com/btbbtzhang/CancerCare-Manitoba-NGS/assets/34163897/220396f0-0e89-4022-9efb-7f9ec7032454)
 
+title2: the GAIS modelling through SNP, SV, INDEL and CNV  
 ![UndirecGraf](https://github.com/btbbtzhang/CancerCare-Manitoba-NGS/assets/34163897/d90da002-fa55-4ebf-af00-93f7a90b5f8b)
 
+title3: the data visualization of SNP, SV, INDEL and CNV  
 <img width="1038" alt="RD" src="https://github.com/btbbtzhang/CancerCare-Manitoba-NGS/assets/34163897/dfb887f3-8283-48fa-94f0-44e6660d1154">
 
