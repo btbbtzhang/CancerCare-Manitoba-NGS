@@ -1,4 +1,4 @@
-# CancerCare-Manitoba-NGS
+# CancerCare-Manitoba-Next Generation Sequeensing.
 
 
 ## Project 1
