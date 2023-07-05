@@ -21,7 +21,7 @@ waiting for uploading from old MATLAB repository
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Project 2
 ### Aim:  
-Created a model, GAIS (Gene Activity Impacted Score) to predict tumor features from the measurements of Whole Genome Sequencing (WGS) or Whole Exome Sequencing (WES).
+Created a model, GAIS (Gene Activity Impacted Score) to predict tumor features from the measurements of Whole Genome Sequencing (WGS) or Whole Exome Sequencing (WES) by integrating INDEL, CNV, SV and SNP.
 ### Methods:  
 Factor Graph (latent variable model) for single nucleotide polymorphism (SNP), structure variation (SV), insert or deletion (INDEL), and copy number variation (CNV). EM algorithm, penalized complete-data log-likelihood function.
 ### Detials check in GAIS_model.pdf
