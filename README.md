@@ -5,7 +5,7 @@
 ### Aim:  
 Created a model, FEature STructure (FEST) to address the inaccuracy of RNA-seq expression problem.
 ### Methods:  
-EM algorithm, parameter estimation, Robustness and sensetivity analysis.
+EM algorithm, parameter estimation, Robustness and sensetivity analysis, Bayesian network model, Shannon Entropy function.
 ### Detials check in FEST_model.pdf
 ### Code:  
 waiting for uploading from old MATLAB repository
